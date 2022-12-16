@@ -32,7 +32,7 @@ This is a quick flutter test to see what you are capable to achive in a real wor
 #### TASK 3 - Refactoring & Bug Fixing
 - We want the user avatar logic to be a widget, please refactor it in a new file `widgets/avatar`
 - `Add user` button is not working, we want a new user to be added but when we press the + button it doesn't do anything
-- Clean up the search controller when the widget is removed from the widget tree.
+- Clean up the search controller by a icon-button as suffix.
 
 ### TASK 4 - Features
 - When the app starts the keyboard should show and focus on the search
